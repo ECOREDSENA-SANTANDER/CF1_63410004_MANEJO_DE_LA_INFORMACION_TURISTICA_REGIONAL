@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Este componente formativo integra los fundamentos para comprender al visitante y fortalecer la comunicación en la atención turística. Aborda la caracterización del usuario, sus necesidades y comportamientos, así como las tipologías de clientes y sus condiciones físicas, médicas y alimentarias. Además, incorpora estrategias de comunicación en el sector turístico, incluyendo técnicas como el storytelling y el enfoque STEAM, junto con la aplicación de protocolos de servicio, normas de urbanidad y manejo de la imagen personal. En conjunto, estos elementos permiten brindar una atención más efectiva, inclusiva y orientada a generar experiencias positivas y de calidad para el turista.
+    p Este componente formativo integra los fundamentos para comprender al visitante y fortalecer la comunicación en la atención turística. Aborda la caracterización del usuario, sus necesidades y comportamientos, así como las tipologías de clientes y sus condiciones físicas, médicas y alimentarias. Además, incorpora estrategias de comunicación en el sector turístico, incluyendo técnicas como el #[em storytelling] y el enfoque STEAM, junto con la aplicación de protocolos de servicio, normas de urbanidad y manejo de la imagen personal. En conjunto, estos elementos permiten brindar una atención más efectiva, inclusiva y orientada a generar experiencias positivas y de calidad para el turista.
     
 
     .row.justify-content-center

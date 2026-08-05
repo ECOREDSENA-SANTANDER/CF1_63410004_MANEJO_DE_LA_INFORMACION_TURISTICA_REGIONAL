@@ -21,7 +21,7 @@
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
       .col-lg-12
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Tabla 3.
+          h5 Tabla 4.
           span Habilidades sociales para una comunicación efectiva
 
         .tabla-a.color-acento-contenido.mb-5(data-aos="fade-left")
@@ -97,7 +97,7 @@
 
     separador
     #t_2_1.titulo-segundo.mb-5(data-aos="zoom-in-left")
-      h2 2.1  Partes y clasificación de las agujas de confección
+      h2 Técnicas de comunicación (<i>storytelling</i>, STEAM e historietas)
 
     p El #[em storytelling] es una estrategia de comunicación que consiste en construir relatos atractivos para transmitir mensajes de forma clara, organizada y con impacto emocional. En un contexto donde las personas están expuestas a grandes volúmenes de información, contar historias se convierte en una herramienta clave para captar la atención, facilitar la comprensión y favorecer el recuerdo del mensaje.
     .cajon.color-primario.p-4.mb-4
@@ -154,7 +154,7 @@
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
       .col-lg-12
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Tabla 4.
+          h5 Tabla 3.
           span Técnicas de comunicación STEAM aplicadas al turismo
 
         .tabla-a.color-acento-contenido.mb-3

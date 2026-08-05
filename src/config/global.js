@@ -3,7 +3,7 @@ export default {
     Name:
       'Caracterización del visitante y comunicación en la atención turística',
     Description:
-      'Este componente formativo permite comprender los fundamentos de la atención al cliente en el sector turístico, identificando los diferentes tipos de visitantes, sus necesidades, comportamientos y expectativas. Además, fortalece las habilidades de comunicación y servicio mediante estrategias como storytelling, enfoque STEAM e historietas, junto con la aplicación de protocolos, normas de cortesía e imagen personal, para brindar una atención profesional, segura y de calidad acorde con la normativa vigente. ',
+      'Este componente formativo permite comprender los fundamentos de la atención al cliente en el sector turístico, identificando los diferentes tipos de visitantes, sus necesidades, comportamientos y expectativas. Además, fortalece las habilidades de comunicación y servicio mediante estrategias como <i>storytelling</i>, enfoque STEAM e historietas, junto con la aplicación de protocolos, normas de cortesía e imagen personal, para brindar una atención profesional, segura y de calidad acorde con la normativa vigente. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -430,7 +430,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional 06. Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -479,7 +479,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Erika Daniela Manrique Rueda',
+          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

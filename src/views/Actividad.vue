@@ -21,7 +21,7 @@ export default {
         'Caracterización del visitante y comunicación en la atención turística',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> objetivo de la actividad	Evaluar la comprensión de los aprendices sobre los conceptos básicos relacionados con el turista, consumidor y cliente en el sector turístico, identificando los factores que influyen en el comportamiento de compra, las tipologías de clientes, los parámetros de condición física, médica y alimentaria, así como la importancia de la comunicación, el protocolo de servicio, la imagen personal, la urbanidad y las normas de cortesía en la prestación de servicios turísticos de calidad.',
+        '<b> Objetivo:</b> evaluar la comprensión de los aprendices sobre los conceptos básicos relacionados con el turista, consumidor y cliente en el sector turístico, identificando los factores que influyen en el comportamiento de compra, las tipologías de clientes, los parámetros de condición física, médica y alimentaria, así como la importancia de la comunicación, el protocolo de servicio, la imagen personal, la urbanidad y las normas de cortesía en la prestación de servicios turísticos de calidad.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
