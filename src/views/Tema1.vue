@@ -109,6 +109,45 @@
             .col-lg-6.col-md-8
               figure
                 img(src="@/assets/curso/Tema1/6.png")
+      .titulo-custom.mb-4(data-aos="fade-left")
+        .d-flex.align-items-center
+          span.punto
+          h4 Factores sociales en el turismo
+        .linea
+
+      p Los factores sociales influyen en cómo actúa el consumidor turístico. Las decisiones de viaje están relacionadas con la familia, grupos de referencia e identificación y el papel que cumple dentro de esos grupos. 
+      
+      AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+        .row.justify-content-center(titulo="Grupos de referencia")
+          .col-lg-5.mb-4.mb-md-0
+            p Personas o colectivos que influyen en las decisiones del turista, como amigos, compañeros de estudio o trabajo, familiares, comunidades religiosas, grupos deportivos, creadores de contenido o personas que comparten experiencias de viaje. 
+          .col-lg-6.col-md-9.col-10
+            figure
+              img(src='@/assets/curso/Tema1/aco1.png', alt='')
+        
+        .row.justify-content-center.align-items-center(titulo="Familia")
+          .col-lg-5.mb-4.mb-lg-0
+            p Factor social con mayor impacto en el consumo turístico. Cada tipo de familia tiene necesidades, intereses y prioridades diferentes. Ejemplos: parejas, familias con niños pequeños, grupos de hermanos, familias extensas.
+          .col-lg-6.col-md-9.col-10
+            figure
+              img(src='@/assets/curso/Tema1/aco2.png', alt='')
+
+        .row.justify-content-center.align-items-center(titulo="Roles dentro del grupo")
+          .col-lg-5.mb-4.mb-lg-0
+            p Cada persona asume un rol diferente en el viaje. Ejemplos: quien propone el destino, quien compara precios, quien organiza el itinerario, quien realiza la compra final.
+          .col-lg-6.col-md-9.col-10
+            figure
+              img(src='@/assets/curso/Tema1/aco3.png', alt='')
+
+        .row.justify-content-center.align-items-center(titulo="El estatus")
+          .col-lg-5.mb-4.mb-lg-0
+            p Se refiere al reconocimiento, imagen o posición que una persona tiene dentro de un grupo social. Entender el entorno social del turista permite ofrecer experiencias más pertinentes, humanas y acordes con las necesidades reales del mercado.
+          .col-lg-6.col-md-9.col-10
+            figure
+              img(src='@/assets/curso/Tema1/aco4.png', alt='')      
+
+       
+      
       
       .titulo-custom.mb-4(data-aos="fade-left")
         .d-flex.align-items-center
