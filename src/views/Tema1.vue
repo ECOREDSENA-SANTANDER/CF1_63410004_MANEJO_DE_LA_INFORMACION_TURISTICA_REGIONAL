@@ -294,7 +294,7 @@
             .tarjeta.bg-white.p-4
               TarjetaAudio.color-primario(
                 texto="Pódcast"
-                :audio="require('@/assets/curso/Tema1/podcast.png')"
+                :audio="require('@/assets/curso/Tema1/podcast.mp3')"
               )
               .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
               p.mt-3
