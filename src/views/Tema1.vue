@@ -293,7 +293,7 @@
           .tarjeta.clr--pink.p-4.rounded-0.h-100.bg9
             .tarjeta.bg-white.p-4
               TarjetaAudio.color-primario(
-                texto="Pódcast"
+                texto="Pódcast: la decisión de compra en el turismo"
                 :audio="require('@/assets/curso/Tema1/podcast.mp3')"
               )
               .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
@@ -446,7 +446,7 @@
                         h4.mb-3 Perfil del turista – Estados Unidos
                         p.mb-0 Con el fin de ampliar la información sobre este perfil, se invita a revisar el siguiente anexo, donde se detallan sus principales características, intereses y comportamientos en el contexto turístico.
                       .col-sm-auto
-                        a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_Perfil_del turista_Estados_Unidos.pdf')" target="_blank")
+                        a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_01_Perfil_del turista_Estados_Unidos.pdf')" target="_blank")
                           span Descargar
                           i.fas.fa-file-download
 
@@ -468,7 +468,7 @@
                         h4.mb-3 Perfil del turista – canadiense
                         p.mb-0 En el siguiente anexo se presenta una caracterización del turista canadiense, resaltando sus motivaciones de viaje, preferencias y comportamientos, con el fin de comprender mejor sus expectativas dentro de la oferta turística.
                       .col-sm-auto
-                        a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2_Perfil_del_turista_canadiense.pdf')" target="_blank")
+                        a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_02_Perfil_del_turista_canadiense.pdf')" target="_blank")
                           span Descargar
                           i.fas.fa-file-download
 
@@ -490,7 +490,7 @@
                         h4.mb-3 Perfil del turista – nómadas digitales
                         p.mb-0 El siguiente anexo presenta una descripción general del perfil del nómada digital, destacando sus dinámicas de viaje, prioridades y la forma en que integra el trabajo remoto con la experiencia turística.
                       .col-sm-auto
-                        a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_Perfil_del_turista_nomadas_digitales.pdf')" target="_blank")
+                        a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_03_Perfil_del_turista_nomadas_digitales.pdf')" target="_blank")
                           span Descargar
                           i.fas.fa-file-download
 
@@ -512,7 +512,7 @@
                         h4.mb-3 Resultados del estudio de investigación de mercados sobre el turismo en Colombia
                         p.mb-0 En el siguiente anexo se presentan los principales hallazgos del estudio de investigación de mercados, los cuales permiten comprender el comportamiento, las preferencias y las tendencias de los turistas en Colombia.
                       .col-sm-auto
-                        a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_4_Resultados_del_estudio_de_investigacion_de_mercados_sobre_el_turismo_en_Colombia.pdf')" target="_blank")
+                        a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_04_Resultados_del_estudio_de_investigacion_de_mercados_sobre_el_turismo_en_Colombia.pdf')" target="_blank")
                           span Descargar
                           i.fas.fa-file-download
 

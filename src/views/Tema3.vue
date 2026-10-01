@@ -127,7 +127,6 @@
             img(src='@/assets/curso/Tema3/img06.png', alt='')
       .row.justify-content-center.align-items-center(titulo="Orden y método")
         .col-lg-5.mb-4.mb-md-0
-          h5 Orden y método
           p Los hábitos de cuidado personal reflejan organización y capacidad para actuar con método. En el turismo, esto se traduce en el cumplimiento de horarios, la preparación adecuada de actividades y la responsabilidad en la prestación del servicio.
         .col-lg-6.col-10.col-md-8
           figure
@@ -135,7 +134,6 @@
 
       .row.justify-content-center.align-items-center(titulo="Respeto por los demás")
         .col-lg-5.mb-4.mb-md-0
-          h5 Respeto por los demás
           p El aseo también implica una actitud considerada hacia los demás. Evitar comportamientos, palabras o actitudes que generen incomodidad contribuye a una convivencia armónica y a una atención más respetuosa hacia el turista.
         .col-lg-6.col-10.col-md-8
           figure
@@ -143,7 +141,6 @@
 
       .row.justify-content-center.align-items-center(titulo="Imagen profesional")
         .col-lg-5.mb-4.mb-md-0
-          h5 Imagen profesional
           p En el sector turístico, el cuidado de la apariencia personal constituye un elemento esencial para generar una percepción positiva en el visitante. Un prestador que proyecta una imagen adecuada transmite seriedad, confianza y compromiso con la excelencia en la prestación del servicio.
         .col-lg-6.col-10.col-md-8
           figure
@@ -151,7 +148,6 @@
 
       .row.justify-content-center.align-items-center(titulo="Convivencia")
         .col-lg-5.mb-4.mb-md-0
-          h5 Convivencia
           p El cuidado personal no es solo un aspecto individual, se convierte en una expresión de respeto hacia quienes comparten el entorno turístico. Una actitud apropiada, el uso de un lenguaje respetuoso y una presentación adecuada contribuyen a generar un clima de armonía y cordialidad entre turistas, comunidad local y prestadores de servicios.
         .col-lg-6.col-10.col-md-8
           figure
@@ -159,7 +155,6 @@
 
       .row.justify-content-center.align-items-center(titulo="Profesionalismo en el turismo")
         .col-lg-5.mb-4.mb-md-0
-          h5 Profesionalismo en el turismo
           p En conjunto, estos elementos fortalecen la calidad del servicio turístico, promueven el respeto mutuo y contribuyen a generar experiencias positivas y memorables para los visitantes.
         .col-lg-6.col-10.col-md-8
           figure
