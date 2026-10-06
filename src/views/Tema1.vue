@@ -282,6 +282,8 @@
       .cajon.color-primario.p-5.mb-4
         p En el contexto turístico, la decisión no suele tomarse de manera inmediata, es un proceso gradual que inicia con el reconocimiento de una necesidad y continúa con la búsqueda y análisis de información sobre destinos, servicios, precios, reseñas o recomendaciones. El viajero tiende a comparar diferentes opciones y evaluar si la experiencia ofrecida responde a sus necesidades y expectativas. De esta manera, la elección final es el resultado de un proceso reflexivo en el que se consideran tanto aspectos racionales como emocionales. Finalmente, la experiencia vivida permite valorar el servicio recibido, influyendo en la recompra, la recomendación y la mejora continua de la calidad en la prestación del servicio (George, 2025; Horner & Swarbrooke, 2021; Kotler et al., 2021).
 
+      p ¡Ahora es momento de explorar!  
+      p Descubra en el pódcast cómo influyen las necesidades, motivaciones, expectativas y experiencias en la decisión de compra en el turismo. 
       .row.justify-content-center.mb-4(data-aos="fade-left")
         .col-lg-12
           img.w-100(
