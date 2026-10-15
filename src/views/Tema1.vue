@@ -431,7 +431,7 @@
       p A partir de los estudios realizados por ProColombia y FONTUR (ProColombia, 2021; ProColombia, 2022; FONTUR & MinCIT, 2024), se identifican diversos perfiles de turistas que visitan el país o realizan turismo interno. Conocer estas características permite adaptar la oferta turística y mejorar la calidad del servicio.
 
       TabsC.color-primario.mb-0(data-aos="fade-left")
-        .py-3.py-md-4(titulo="Visitante estadounidenses")
+        .py-3.py-md-4(titulo="Visitante estadounidense")
           .row.justify-content-center.align-items-center
             .col-lg-4.col-8.mb-3.col-md-6
               figure
