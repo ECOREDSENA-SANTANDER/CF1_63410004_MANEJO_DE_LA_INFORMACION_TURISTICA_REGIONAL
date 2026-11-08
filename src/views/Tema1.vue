@@ -12,12 +12,14 @@
         )
         .bloque-texto-g__texto.p-4
           p.mb-0 Se da inicio con la comprensión del concepto de turismo, como base para interpretar las definiciones utilizadas en el sector. De manera general, el turismo se entiende como el conjunto de actividades que realizan las personas cuando se desplazan y permanecen temporalmente en lugares diferentes a su entorno habitual, por motivos como el descanso, los negocios u otras razones personales. Una de las definiciones más reconocidas fue planteada por la Organización Mundial del Turismo (OMT, 1991), la cual establece que estas actividades se desarrollan durante viajes y estancias inferiores a un año. Esta definición ha sido ampliada posteriormente por la misma organización, otorgándole un carácter más amplio y flexible acorde con las dinámicas actuales.
+
             br
             br
-            | Un aspecto fundamental del turismo es su carácter temporal, lo que implica que no se consideran turismo, los desplazamientos con intención de residencia permanente ni los movimientos habituales. En este sentido, autores como Francés (2003) y Matute y Asanza (2006) coinciden en que el turismo supone una permanencia limitada con retorno al lugar de origen. Asimismo, se incluyen desplazamientos hacia segundas viviendas con fines recreativos, siempre que no exista intención de migrar definitivamente (Francés, 2003; Gurría, 2004).
+            | Un aspecto fundamental del turismo es su carácter temporal, lo que implica que no se consideran turismo los desplazamientos con intención de residencia permanente ni los movimientos habituales. En este sentido, autores como Francés (2003) y Matute y Asanza (2006) coinciden en que el turismo supone una permanencia limitada con retorno al lugar de origen. Asimismo, se incluyen desplazamientos hacia segundas viviendas con fines recreativos, siempre que no exista intención de migrar definitivamente (Francés, 2003; Gurría, 2004).
 
       .cajon.color-secundario.p-5.mb-4(data-aos="fade-left")
         p A partir de esta base, surge el concepto de visitante, del cual se derivan las categorías de turista y excursionista. Según la OMT (2006a), el turismo abarca todas las actividades realizadas por visitantes durante una estancia menor a doce meses. Un visitante es toda persona que se traslada a un lugar distinto de su residencia habitual (Gurría, 2004), lo que permite diferenciar dos grupos principales.
+
         p Por un lado, el turista es aquel visitante que permanece en el destino por un tiempo igual o superior a 24 horas, lo que generalmente implica al menos una pernoctación. Sus motivaciones pueden incluir recreación, vacaciones, salud, estudio, religión, deporte o negocios. Por otro lado, el excursionista es el visitante cuya permanencia es inferior a 24 horas y que no pernocta en el lugar; en esta categoría se incluyen, por ejemplo, los visitantes de un solo día y los pasajeros de cruceros.
 
       .row.justify-content-center.mb-0(data-aos="fade-left")
@@ -183,7 +185,7 @@
             .col-7.col-md-4.col-lg-7
               img(src='@/assets/curso/Tema1/4.svg' alt='')
           h3.text-center Economía
-          p.text-center La situación económica que incluye aspectos como el ingreso, la estabilidad laboral, la capacidad de ahorro y el acceso directo al crédito, define las preferencias de destino, duración, transporte y alojamiento.
+          p.text-center La situación económica que incluye, aspectos como el ingreso, la estabilidad laboral, la capacidad de ahorro y el acceso directo al crédito, define las preferencias de destino, duración, transporte y alojamiento.
 
         .tarjeta.bg8.p-4
           .row.justify-content-center.mb-3
@@ -280,7 +282,7 @@
 
       p La decisión de compra de un servicio turístico (como un viaje, una excursión, una reserva de hotel o un paquete vacacional) implica generalmente un proceso de análisis por parte del consumidor. Este proceso puede ser rápido o prolongado, dependiendo de aspectos como el tipo de viaje, el presupuesto disponible, el nivel de urgencia y la experiencia previa del turista.
       .cajon.color-primario.p-5.mb-4
-        p En el contexto turístico, la decisión no suele tomarse de manera inmediata, es un proceso gradual que inicia con el reconocimiento de una necesidad y continúa con la búsqueda y análisis de información sobre destinos, servicios, precios, reseñas o recomendaciones. El viajero tiende a comparar diferentes opciones y evaluar si la experiencia ofrecida responde a sus necesidades y expectativas. De esta manera, la elección final es el resultado de un proceso reflexivo en el que se consideran tanto aspectos racionales como emocionales. Finalmente, la experiencia vivida permite valorar el servicio recibido, influyendo en la recompra, la recomendación y la mejora continua de la calidad en la prestación del servicio (George, 2025; Horner & Swarbrooke, 2021; Kotler et al., 2021).
+        p En el contexto turístico, la decisión no suele tomarse de manera inmediata; es un proceso gradual que inicia con el reconocimiento de una necesidad y continúa con la búsqueda y análisis de información sobre destinos, servicios, precios, reseñas o recomendaciones. El viajero tiende a comparar diferentes opciones y evaluar si la experiencia ofrecida responde a sus necesidades y expectativas. De esta manera, la elección final es el resultado de un proceso reflexivo en el que se consideran tanto aspectos racionales como emocionales. Finalmente, la experiencia vivida permite valorar el servicio recibido, influyendo en la recompra, la recomendación y la mejora continua de la calidad en la prestación del servicio (George, 2025; Horner & Swarbrooke, 2021; Kotler et al., 2021).
 
       p ¡Ahora es momento de explorar!  
       p Descubra en el pódcast cómo influyen las necesidades, motivaciones, expectativas y experiencias en la decisión de compra en el turismo. 
@@ -322,7 +324,7 @@
             .col-7.col-md-4.col-lg-7
               img(src='@/assets/curso/Tema1/02.svg' alt='')
           h4.text-center Tipos de turistas y dinámicas de grupo
-          p.text-center Se evidencian turistas individuales y en grupo, cada uno con necesidades y comportamientos diferentes. Los grupos suelen requerir coordinación, los individuales buscan mayor personalización.
+          p.text-center Se evidencian turistas individuales y en grupo, cada uno con necesidades y comportamientos diferentes. Los grupos suelen requerir coordinación; los individuales buscan mayor personalización.
 
         .tarjeta.bg8.p-4
           .row.justify-content-center.mb-3
@@ -382,7 +384,7 @@
 
             .tabla-a.color-acento-contenido.mb-3
               table
-                caption.bg5 Nota: adaptado de Kotler et al., (2021)
+                caption.bg5 Nota: adaptado de Kotler et al. (2021)
                 thead
                   tr
                     th.bg2.w-25.text-izq Tipo de cliente
@@ -416,6 +418,7 @@
         )
         .bloque-texto-g__texto.p-4
           p.mb-0 En el sector turístico, no todos los clientes toman decisiones de la misma manera: algunos buscan generar confianza antes de comprar, otros priorizan la rapidez, mientras que hay quienes necesitan información detallada o una atención cercana y personalizada. Comprender estas diferencias permite mejorar los procesos de venta, orientar adecuadamente al viajero y diseñar experiencias más satisfactorias y acordes a sus expectativas.
+
             br
             br
             | En el caso de Colombia, entidades como ProColombia (2022) y FONTUR (2024) han realizado estudios enfocados en el análisis de perfiles de turistas, tanto internacionales como nacionales. Estos estudios permiten identificar características, motivaciones y comportamientos de los viajeros que visitan el país o realizan turismo interno.
@@ -502,7 +505,7 @@
               figure
                 img(src='@/assets/curso/Tema1/img14.png', alt='')
             .col-lg-8.mb-4.mb-md-0
-              p Responde generalmente al perfil de un adulto joven con ingresos medios o medios-bajos. Suele realizar viajes de corta distancia, principalmente por carretera, y su decisión está fuertemente influenciada por el presupuesto, la oferta de experiencias disponibles y la percepción de seguridad del destino. Este perfil demanda opciones accesibles, promociones y planes ajustados a su capacidad económica.
+              p Responde generalmente al perfil de un adulto joven con ingresos medios o medio-bajos. Suele realizar viajes de corta distancia, principalmente por carretera, y su decisión está fuertemente influenciada por el presupuesto, la oferta de experiencias disponibles y la percepción de seguridad del destino. Este perfil demanda opciones accesibles, promociones y planes ajustados a su capacidad económica.
 
               .tarjeta.color-primario.p-4.mb-5
                 .row.justify-content-around.align-items-center
@@ -531,7 +534,8 @@
         .col-lg-7.align-items-center.p-5
           br
           br
-          p Los operadores turísticos y guías tienen la responsabilidad de brindar orientación clara y oportuna para prevenir riesgos como accidentes, enfermedades, fatiga o reacciones alérgicas, y así garantizar una experiencia segura. De acuerdo con la Organización Mundial de la Salud, aunque se recomienda la actividad física regular, algunas personas pueden requerir adaptaciones según su edad o condición de salud. En el turismo, esto implica reconocer que no todos los visitantes tienen las mismas capacidades.
+          p Los operadores turísticos y guías tienen la responsabilidad de brindar orientación clara y oportuna para prevenir riesgos como accidentes, enfermedades, fatiga o reacciones alérgicas, y así garantizar una experiencia segura.
+          p De acuerdo con la Organización Mundial de la Salud (OMS, 2020), aunque se recomienda la actividad física regular, algunas personas pueden requerir adaptaciones según su edad o condición de salud. En el turismo, esto implica reconocer que no todos los visitantes tienen las mismas capacidades.
           p Por ello, es fundamental tener en cuenta ciertas condiciones y recomendaciones para orientar adecuadamente a los viajeros.
         
       .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")

@@ -79,7 +79,7 @@
               tr
                 td #[b Seguridad]
                 td Aplicación de medidas preventivas durante las actividades.
-                td Indicar rutas y puntos de encuentro y recomendaciones.
+                td Indicar rutas, puntos de encuentro y recomendaciones.
 
               tr
                 td #[b Despedida]
@@ -226,7 +226,7 @@
           .d-flex.align-items-start
             img.w-card-icon(src="@/assets/curso/Tema2/ico.svg")
             h3.bg3.py-2.w-card-text.text-white Importancia en el turismo
-    p La aplicación de la urbanidad y la cortesía fortalece la calidad del servicio, mejora la experiencia del visitante y promueve el respeto mutuo. Estos principios permiten generar confianza, proyectar profesionalismo y contribuir a experiencias turísticas positivas y memorables (Carreño, 1885/2022).
+    p La aplicación de la urbanidad y la cortesía fortalece la calidad del servicio, mejora la experiencia del visitante y promueve el respeto mutuo. Estos principios permiten generar confianza, proyectar profesionalismo y contribuir a experiencias turísticas positivas y memorables (Carreño, 1853/2022).
 
 
 
